@@ -1,0 +1,21 @@
+* text=auto
+
+# Explicitly handle text files
+*.js text
+*.jsx text
+*.css text
+*.html text
+*.md text
+*.py text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+
+# Scripts (prevent line ending conversion)
+*.sh -text
+*.ps1 -text

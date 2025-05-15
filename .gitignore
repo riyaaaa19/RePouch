@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtualenv/pip/conda environments
+.venv/
+venv/
+ENV/
+env/
+*/.venv/
+*/venv/
+*/ENV/
+*/env/
+
+# Distribution / packaging
+.eggs/
+dist/
+sdist/
+*.egg-info/
+wheels/
+*.whl
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node Modules
+node_modules/
