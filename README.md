@@ -1,8 +1,3 @@
-Here’s your **updated and complete `README.md`** file including backend access instructions:
-
----
-
-````markdown
 # 🌿 RePouch Dashboard
 
 **RePouch Dashboard** is a full-stack project developed using **React** (frontend) and **Django** (backend), built to support the RePouch sustainability initiative that promotes eco-friendly refills and pouch returns to reduce plastic waste.
@@ -43,12 +38,14 @@ Currently, the frontend and backend are developed **independently**, and integra
 cd frontend
 npm install
 npm start
-````
+```
+
 
 ### Backend (Django)
 
+Make sure you are in the backend directory (where `manage.py` and `requirements.txt` are located), then run:
+
 ```bash
-cd backend
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -94,6 +91,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you want to also include GitHub setup instructions (`git init`, `push`, etc.) or deployment steps when you're ready.
+If you want me to help with the LICENSE file or badges, just say!
 ```
-
