@@ -89,7 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
 
-If you want me to help with the LICENSE file or badges, just say!
-```
